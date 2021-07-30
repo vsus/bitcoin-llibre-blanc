@@ -1,4 +1,5 @@
-# bitcoin-catala
-Bitcoin whitepaper translated into Catalan.
+# Bitcoin: Un sistema de diner electrònic d’igual a igual
 
-El llibre blanc de Bitcoin traduït al català.
+Bitcoin whitepaper translated into Catalan.  
+
+Also online at Bitcoin.org ([Bitcoin: Un sistema de diner electrònic d’igual a igual](https://bitcoin.org/files/bitcoin-paper/bitcoin_ca.pdf))
